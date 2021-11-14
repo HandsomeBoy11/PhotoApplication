@@ -1,4 +1,4 @@
-package com.longfor.photoapplication;
+package com.wj.photoapplication;
 
 import android.app.Service;
 import android.content.Context;

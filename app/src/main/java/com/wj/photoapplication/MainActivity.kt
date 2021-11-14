@@ -1,4 +1,4 @@
-package com.longfor.photoapplication
+package com.wj.photoapplication
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
